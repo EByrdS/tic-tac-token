@@ -1,0 +1,3 @@
+export ETH_PASSWORD=$PWD/pass
+export ETH_KEYSTORE=~/.dapp/testnet/8545/keystore
+export ETH_FROM=0x98CDB698b462981F548a5980A2f182E65011E413

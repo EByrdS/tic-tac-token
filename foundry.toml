@@ -5,4 +5,7 @@ libs = ['lib']
 verbosity = 2
 fuzz_runs = 5000
 
+[verbose]
+verbosity = 4
+
 # See more config options https://github.com/gakonst/foundry/tree/master/config
